@@ -1,0 +1,76 @@
+
+html, body {
+	font-family: Tahoma, Arial; 
+	padding: 0px; 
+	margin: 0px; 
+	color: #333333;
+	background: #333333;
+	font-size: 16px;
+}
+img	{ width: 100%; }
+
+a {
+	color: #ffffff; outline: 0;
+}
+
+a:hover, a:focus {
+	text-decoration: none;
+	color: #cccccc;
+}
+
+
+h1	{	font-size: 3em;
+	color: #cccccc;
+	background: #343537;
+	padding: 0px 0px;
+	float: left;
+	margin: 5% 0% 0% 2%;
+	font-family: Tahoma, Arial;
+	font-weight: 400;
+	}
+
+.content { display: none; height: auto; }
+.homepage{ display: block; }
+
+.test_link { 
+	font-size: 2em; color: #ffffff;
+	width: 95%;
+}
+.test_mainservice	{
+	background: #999933;
+	text-align: center;
+	width: 100%;
+	float: left;
+}
+
+.test_mainportfolio {
+	background: #993333;
+	text-align: center;
+	width: 100%;
+}
+
+.test_maintesti {
+	background: #339966;
+	text-align: center;
+	width: 100%;
+}
+
+.test_mainabout	{
+	background: #cc9933;
+	text-align: center;
+	width: 100%;
+}
+
+.test_maincontact	{
+	background: #006699;
+	text-align: center;
+	width: 100%;
+}
+.test_leftgap	{ padding: 0px 8px; }
+.test_botgap	{ margin: 0px 0px 16px 0px; }
+.test_topgap	{ margin-top: 0px; }
+.test_portfotopgap	{ margin-top: 0px; }
+.test_link { height: 150px; line-height: 150px; padding: 0px; }
+.logocontainer	{ width: 1140px; padding: 0px 30px; margin: 0 auto; height:150px;}
+.test_link { height: 142px; line-height: 142px; padding: 0px; }
+
